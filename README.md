@@ -1,0 +1,14 @@
+# full_k69v1_64-user 10 QP1A.190711.020 1618569804 release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: E6746
+- flavor: full_k69v1_64-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 1618569804
+- tags: release-keys
+- fingerprint: Micromax/E6746/E6746:10/QP1A.190711.020/1618569804:user/release-keys
+- is_ab: false
+- brand: Micromax
+- branch: full_k69v1_64-user-10-QP1A.190711.020-1618569804-release-keys
+- repo: micromax_e6746_dump8944
